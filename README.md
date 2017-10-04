@@ -1,7 +1,8 @@
 # chemi
 
-Find chemical element from z number, symbol or element name.
+![CAPTURE.gif](CAPTURE.gif)
 
+Find chemical element from z number, symbol or element name.
 
 # Install
 
