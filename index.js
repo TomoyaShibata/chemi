@@ -13,7 +13,6 @@ const showResult = (chemicalElement) => {
   console.log(`z           : ${chemicalElement.z}`)
   console.log(`symbol      : ${chemicalElement.symbol}`)
   console.log(`element     : ${chemicalElement.element}`)
-  console.log(`originalName: ${chemicalElement.originName}`)
   console.log(`group       : ${chemicalElement.group}`)
   console.log(`period      : ${chemicalElement.period}`)
   console.log(`wikipedia   : https://en.wikipedia.org/wiki/${chemicalElement.element}`)
