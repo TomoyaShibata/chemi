@@ -4,7 +4,7 @@
   "description": "Find chemical element from z number, symbol or element name",
   "bin": "index.js",
   "keywords": [],
-  "author": "Tomoya Shibata",
+  "author": "tomoya_shibata <wind.of.hometown+npm@gmail.com> (https://twitter.com/tomoya_shibata)",
   "license": "MIT",
   "preferGlobal": true,
   "dependencies": {
