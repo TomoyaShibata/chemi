@@ -1,0 +1,13 @@
+{
+  "name": "chemi",
+  "version": "0.0.1",
+  "description": "Find chemical element from z number, symbol or element name",
+  "bin": "index.js",
+  "keywords": [],
+  "author": "Tomoya Shibata",
+  "license": "MIT",
+  "preferGlobal": true,
+  "dependencies": {
+    "commander": "^2.11.0"
+  }
+}

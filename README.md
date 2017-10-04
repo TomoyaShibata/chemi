@@ -1,2 +1,72 @@
 # chemi
-Find chemical element from z number, symbol or element name
+
+Find chemical element from z number, symbol or element name.
+
+
+# Install
+
+```bash
+$ npm install --global chemi
+```
+
+# Usage
+
+## Show help
+
+```
+$ chemi -h
+
+  Usage: chemi [options]
+
+
+  Options:
+
+    -V, --version              output the version number
+    -z, --znumber <[znumber]>  Find by z number
+    -s, --symbol <[symbol]>    Find by symbol
+    -e, --element <[element]>  Find by element
+    -h, --help                 output usage information
+```
+
+## Find by z number
+
+```
+$ chemi -z 2
+z           : 2
+symbol      : He
+element     : Helium
+originalName: the Greek helios, 'sun'
+group       : 18
+period      : 1
+wikipedia   : https://en.wikipedia.org/wiki/Helium
+```
+
+## Find by symbol
+
+```
+$ chemi -s Mg
+z           : 12
+symbol      : Mg
+element     : Magnesium
+originalName: Magnesia, a district of Eastern Thessaly in Greece
+group       : 2
+period      : 3
+wikipedia   : https://en.wikipedia.org/wiki/Magnesium
+```
+
+## Find by element
+
+```
+$ chemi -e Iridium
+z           : 77
+symbol      : Ir
+element     : Iridium
+originalName: Iris, the Greek goddess of the rainbow
+group       : 9
+period      : 6
+wikipedia   : https://en.wikipedia.org/wiki/Iridium
+```
+
+# License
+
+MIT
