@@ -23,7 +23,7 @@ const findElement = (keyName, value) => {
   showResult(checmicalElements.find(c => c[keyName] == value))
 }
 
-program.version('0.0.1')
+program.version('0.0.2')
   .name('chemi')
   .option('-z, --znumber <[znumber]>', 'Find by z number')
   .option('-s, --symbol <[symbol]>', 'Find by symbol')

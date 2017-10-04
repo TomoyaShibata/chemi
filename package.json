@@ -1,6 +1,6 @@
 {
   "name": "chemi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find chemical element from z number, symbol or element name",
   "bin": "index.js",
   "keywords": [
