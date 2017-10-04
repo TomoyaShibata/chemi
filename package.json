@@ -3,9 +3,15 @@
   "version": "0.0.1",
   "description": "Find chemical element from z number, symbol or element name",
   "bin": "index.js",
-  "keywords": [],
+  "keywords": [
+    "chemical"
+  ],
   "author": "tomoya_shibata <wind.of.hometown+npm@gmail.com> (https://twitter.com/tomoya_shibata)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomoyaShibata/chemi.git"
+  },
   "preferGlobal": true,
   "dependencies": {
     "commander": "^2.11.0"
