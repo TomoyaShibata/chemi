@@ -35,7 +35,6 @@ $ chemi -z 2
 z           : 2
 symbol      : He
 element     : Helium
-originalName: the Greek helios, 'sun'
 group       : 18
 period      : 1
 wikipedia   : https://en.wikipedia.org/wiki/Helium
@@ -48,7 +47,6 @@ $ chemi -s Mg
 z           : 12
 symbol      : Mg
 element     : Magnesium
-originalName: Magnesia, a district of Eastern Thessaly in Greece
 group       : 2
 period      : 3
 wikipedia   : https://en.wikipedia.org/wiki/Magnesium
@@ -61,7 +59,6 @@ $ chemi -e Iridium
 z           : 77
 symbol      : Ir
 element     : Iridium
-originalName: Iris, the Greek goddess of the rainbow
 group       : 9
 period      : 6
 wikipedia   : https://en.wikipedia.org/wiki/Iridium
