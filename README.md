@@ -14,7 +14,7 @@ $ npm install --global chemi
 
 ## Show help
 
-```
+```bash
 $ chemi -h
 
   Usage: chemi [options]
@@ -31,7 +31,7 @@ $ chemi -h
 
 ## Find by z number
 
-```
+```bash
 $ chemi -z 2
 z           : 2
 symbol      : He
@@ -43,7 +43,7 @@ wikipedia   : https://en.wikipedia.org/wiki/Helium
 
 ## Find by symbol
 
-```
+```bash
 $ chemi -s Mg
 z           : 12
 symbol      : Mg
@@ -55,7 +55,7 @@ wikipedia   : https://en.wikipedia.org/wiki/Magnesium
 
 ## Find by element
 
-```
+```bash
 $ chemi -e Iridium
 z           : 77
 symbol      : Ir
